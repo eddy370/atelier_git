@@ -1,0 +1,2 @@
+print("Première analyse")
+
